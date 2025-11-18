@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include <time.h>
 
+// Author: Roy-Jin
+// ²ÂÊı×ÖÓÎÏ·
+
 int startGame();
 
 int main()

@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.json": "jsonc",
-        "time.h": "c"
+        "time.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c"
     }
 }
